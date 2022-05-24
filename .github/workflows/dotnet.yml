@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  app-name: "ghl03webapp18209"
+  app-name: "ghl03webapp32624"
   rg-name: "davidS-RG"
   
 jobs:
